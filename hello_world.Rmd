@@ -1,6 +1,6 @@
 ---
 title: "Hello world"
-output: html_document
+output: github_document
 date: "2023-07-30"
 ---
 
